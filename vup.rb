@@ -3,7 +3,7 @@ class Vup < Formula
   homepage "https://github.com/tbpgr/vup"
   url "git@github.com:tbpgr/homebrew-vup.git", :using => :git
 
-  version "0.1.0"
+  version "0.2.0"
   def install
     bin.install "vup"
   end
